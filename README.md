@@ -2,7 +2,7 @@
 - 👀 I’m interested in **blockchain decentralization** and **AI frontier technologies**, especially generative models and smart contracts
 - 🌱 I’m currently learning **machine learning pipelines** with PyTorch, diving into ensemble methods and neural architecture search
 - 💞️ I’m looking to collaborate on **open-source AI projects** and blockchain-based trust systems
-- 📫 How to reach me: [![Email](https://img.shields.io/badge/-liyunhe02@gmail.com-0078D4?style=flat&logo=gmail&logoColor=white)](mailto:liyunhe02@gmail.com)
+- 📫 How to reach me: liyunhe02@gmail.com
 - ⚡ Fun fact: My bachelor's degree is in **Hydraulic Engineering** 💧⚡ – yes, I transitioned from building dams to building algorithms!
 
 <!---
